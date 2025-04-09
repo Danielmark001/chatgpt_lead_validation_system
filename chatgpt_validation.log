@@ -1,0 +1,7 @@
+2025-04-10 00:02:22,957 - main - INFO - Starting validation process for data/input/your_leads.csv
+2025-04-10 00:02:25,575 - batch_processor - INFO - Reading input file: data/input/your_leads.csv
+2025-04-10 00:02:25,577 - batch_processor - ERROR - Error processing file: Error tokenizing data. C error: Expected 14 fields in line 3, saw 15
+
+2025-04-10 00:02:25,577 - main - ERROR - Error in validation process: Error tokenizing data. C error: Expected 14 fields in line 3, saw 15
+
+2025-04-10 00:02:27,869 - chatgpt_validator - INFO - Browser closed
